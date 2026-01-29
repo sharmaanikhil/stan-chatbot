@@ -1,6 +1,6 @@
 # STAN Conversational Agent
 
-This project is a human-like conversational chatbot built as part of the **STAN Internship Challenge**.  
+This project is a human-like conversational chatbot built. 
 The chatbot is designed to have natural conversations, remember users over time, and remain reliable even when the LLM is unavailable.
 
 ---
